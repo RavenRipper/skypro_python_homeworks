@@ -1,31 +1,22 @@
 def one ():
-    print ('1', end="")
-one = ("1")
+    print (1, end='')
 def two ():
-    print ("2", end="")
-two = ("2")
+    print (2, end='')
 def three ():
-    print ("3", end="")
-three = ("3")
+    print (3, end='')
 def four ():
-    print ("4", end="")
-four = ("4")
+    print (4, end='')
 def five ():
-    print ("5", end="")
-five = ("5")
+    print (5, end='')
 def six ():
-    print ("6", end="")
-six = ("6")
+    print (6, end='')
 def seven ():
-    print ("7", end="")
-seven = ("7")
+    print (7, end='')
 def eight ():
-    print ("8", end="")
-eight = ("8")
+    print (8, end='')
 def nine ():
-    print ("9", end="")
-nine = ("9")
+    print (9, end='')
 def zero ():
-    print (0, end="")
-zero = ("0")
-print (eight,eight,zero,zero,five,five,five,three,five,three,five)
+    print (0, end='')
+
+eight (),eight (),zero (),zero (),five (),five (),five (),three (),five (),three (),five ()
